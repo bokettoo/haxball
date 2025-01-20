@@ -1,0 +1,1759 @@
+
+> haxball-bot@1.0.0 start
+> node index.js
+
+adminPassword : 3000
+https://www.haxball.com/play?c=ofDIc2Gn_kU
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.$d (/app/node_modules/haxball.js/src/index.js:134:305)
+    at Ua.nc (/app/node_modules/haxball.js/src/index.js:132:327)
+    at D.zh (/app/node_modules/haxball.js/src/index.js:114:315)
+    at Na.sa (/app/node_modules/haxball.js/src/index.js:38:13)
+    at Ah.a.mf (/app/node_modules/haxball.js/src/index.js:134:4)
+    at ab.cb (/app/node_modules/haxball.js/src/index.js:104:391)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.nc (/app/node_modules/haxball.js/src/index.js:132:355)
+    at D.zh (/app/node_modules/haxball.js/src/index.js:114:315)
+    at Na.sa (/app/node_modules/haxball.js/src/index.js:38:13)
+    at Ah.a.mf (/app/node_modules/haxball.js/src/index.js:134:4)
+    at ab.cb (/app/node_modules/haxball.js/src/index.js:104:391)
+    at Timeout.b (/app/node_modules/haxball.js/src/index.js:103:298)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.$d (/app/node_modules/haxball.js/src/index.js:134:305)
+    at Ua.Ba (/app/node_modules/haxball.js/src/index.js:133:61)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:73)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Replay directory does not exist!
+Replay directory does not exist!
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Invalid player object or missing id.
+Invalid player object or missing id.
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Invalid player object or missing id.
+Invalid player object or missing id.
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+https://www.haxball.com/play?c=ofDIc2Gn_kU
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+https://www.haxball.com/play?c=ofDIc2Gn_kU
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Replay directory does not exist!
+Replay directory does not exist!
+Error sending message: Error: HTTP error! Status: 503
+    at discord_chat_log (/app/index.js:437:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Replay directory does not exist!
+Replay directory does not exist!
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Replay directory does not exist!
+Replay directory does not exist!
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 503
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+https://www.haxball.com/play?c=ofDIc2Gn_kU
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Failed to send to Discord: 429
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.$d (/app/node_modules/haxball.js/src/index.js:134:305)
+    at Ua.Ba (/app/node_modules/haxball.js/src/index.js:133:61)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:73)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Invalid player object or missing id.
+Invalid player object or missing id.
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Invalid player object or missing id.
+Invalid player object or missing id.
+Replay directory does not exist!
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+https://www.haxball.com/play?c=ofDIc2Gn_kU
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.$d (/app/node_modules/haxball.js/src/index.js:134:305)
+    at Ua.nc (/app/node_modules/haxball.js/src/index.js:132:327)
+    at /app/node_modules/haxball.js/src/index.js:106:413
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.nc (/app/node_modules/haxball.js/src/index.js:132:355)
+    at /app/node_modules/haxball.js/src/index.js:106:413
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.nc (/app/node_modules/haxball.js/src/index.js:132:355)
+    at /app/node_modules/haxball.js/src/index.js:106:413
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.nc (/app/node_modules/haxball.js/src/index.js:132:355)
+    at /app/node_modules/haxball.js/src/index.js:106:413
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.$d (/app/node_modules/haxball.js/src/index.js:134:305)
+    at Ua.Ba (/app/node_modules/haxball.js/src/index.js:133:61)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:73)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.nc (/app/node_modules/haxball.js/src/index.js:132:355)
+    at /app/node_modules/haxball.js/src/index.js:106:413
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at process.processTimers (node:internal/timers:509:9)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.nc (/app/node_modules/haxball.js/src/index.js:132:355)
+    at /app/node_modules/haxball.js/src/index.js:106:413
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at process.processTimers (node:internal/timers:509:9)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.nc (/app/node_modules/haxball.js/src/index.js:132:355)
+    at /app/node_modules/haxball.js/src/index.js:106:413
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Replay directory does not exist!
+https://www.haxball.com/play?c=ofDIc2Gn_kU
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Error: libdatachannel error while sending data channel message: DataChannel is closed
+    at RTCDataChannel.send (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:169:42)
+    at ab.ob (/app/node_modules/haxball.js/src/index.js:104:255)
+    at bb.ob (/app/node_modules/haxball.js/src/index.js:78:66)
+    at Ua.hd (/app/node_modules/haxball.js/src/index.js:134:412)
+    at Ua.Mh (/app/node_modules/haxball.js/src/index.js:138:18)
+    at Ua.Jh (/app/node_modules/haxball.js/src/index.js:136:180)
+    at Ah.a.nf (/app/node_modules/haxball.js/src/index.js:133:447)
+    at e.onmessage (/app/node_modules/haxball.js/src/index.js:104:102)
+    at RTCDataChannel.<anonymous> (/app/node_modules/node-datachannel/dist/cjs/polyfill/RTCDataChannel.cjs:84:32)
+    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+https://www.haxball.com/play?c=ofDIc2Gn_kU
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Replay directory does not exist!
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Failed to send to Discord: 429
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+msawb haka [PM]=>  [ ID: 999 - 🔒💬] motivation mn 3nd rbi: bda kaytl3 lya f kri
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Replay directory does not exist!
+Invalid player object or missing id.
+Invalid player object or missing id.

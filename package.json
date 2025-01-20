@@ -1,0 +1,19 @@
+{
+  "name": "haxball-bot",
+  "version": "1.0.0",
+  "description": "HaxBall Headless Bot",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "fs": "0.0.1-security",
+    "haxball.js": "^2.2.0",
+    "https-proxy-agent": "^7.0.5",
+    "node-fetch": "^2.7.0",
+    "node-localstorage": "^3.0.5"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
