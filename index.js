@@ -28,7 +28,7 @@ HaxballJS.then((HBInit) => {
     roomName: "🏆🔥 Futsal Arena | GFL | S3 🔥🏆", // roomName from config
     maxPlayers: 30, // maxPlayers from config
     public: true, // roomPublic from config
-    playerName: "Avra", // botName from config
+    playerName: "Avraa", // botName from config
     geo: { code: "ES", lat: 40.463667, lon: -3.74922 }, // geo from config
     token: "thr1.AAAAAGeObpvz4zbHryGIJw.1ya7EpluQT4", // token from config
   });
@@ -2265,7 +2265,7 @@ HaxballJS.then((HBInit) => {
       "bold"
     );
     room.sendAnnouncement(
-      "                                        💬 Discord Link: ➡ https://discord.gg/MFAsqm2E5R ⬅",
+      "                                        💬 Discord Link: ➡ https://discord.gg/QMqfcYZYfk ⬅",
       null,
       0xf6ff43,
       "bold"
@@ -5212,7 +5212,7 @@ HaxballJS.then((HBInit) => {
         "bold"
       );
       room.sendAnnouncement(
-        "                                        💬 Discord Link: ➡ https://discord.gg/MFAsqm2E5R ⬅",
+        "                                        💬 Discord Link: ➡ https://discord.gg/QMqfcYZYfk ⬅",
         null,
         0xf6ff43,
         "bold"
@@ -5852,7 +5852,7 @@ HaxballJS.then((HBInit) => {
     allReds = [];
     allBlues = [];
     room.sendAnnouncement(
-      "                                        💬 Discord Link: ➡ https://discord.gg/MFAsqm2E5R ⬅",
+      "                                        💬 Discord Link: ➡ https://discord.gg/QMqfcYZYfk ⬅",
       null,
       Cor.Verde,
       Normal
