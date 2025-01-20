@@ -1,1 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Script Controller</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .console {
+            background-color: #1e1e1e;
+            color: #f0f0f0;
+            padding: 15px;
+            border-radius: 8px;
+            height: 300px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            font-family: 'Courier New', Courier, monospace;
+            margin-bottom: 20px;
+        }
+        .timer {
+            font-size: 1.3em;
+            font-weight: bold;
+            color: #00ff00;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-white">
+    <div class="container mx-auto p-6">
+        <h1 class="text-4xl text-center font-bold mb-6">Script Controller</h1>
 
+        <!-- Console Output -->
+        <div class="console" id="console"></div>
+
+        <!-- Timer Display -->
+        <div class="timer" id="timer">Time Running: 00:00</div>
+
+        <!-- Control Buttons -->
+        <div class="flex justify-center gap-6 mt-6">
+            <button id="startBtn" class="bg-blue-500 px-6 py-3 rounded-lg text-white hover:bg-blue-700 transition-all ease-in-out">Start Script</button>
+            <button id="stopBtn" class="bg-red-500 px-6 py-3 rounded-lg text-white hover:bg-red-700 transition-all ease-in-out" disabled>Stop Script</button>
+        </div>
+    </div>
+
+    <script>
+        let timer;
+        let runningTime = 0;
+        let isRunning = false;
+        let startTime;
+        let timerInterval;
+        let scriptRunning = false;
+
+        // Start the script and the timer
+        document.getElementById('startBtn').addEventListener('click', () => {
+            if (!isRunning) {
+                startScript(); // Start the script
+                startTimer();  // Start the timer
+            }
+        });
+
+        // Stop the script and the timer
+        document.getElementById('stopBtn').addEventListener('click', () => {
+            stopScript();  // Stop the script
+            stopTimer();   // Stop the timer
+        });
+
+        // Function to start the script
+        function startScript() {
+            logToConsole('Script started...');
+            document.getElementById('startBtn').disabled = true;
+            document.getElementById('stopBtn').disabled = false;
+
+            // API call to run the script
+            fetch('/run-script')
+                .then((response) => response.json())
+                .then((data) => {
+                    logToConsole(data.message); // Output the result from the server
+                    scriptRunning = true;
+                })
+                .catch((error) => {
+                    logToConsole(`Error: ${error.message}`);
+                    stopTimer(); // If the script fails, stop the timer
+                });
+        }
+
+        // Function to stop the script
+        function stopScript() {
+            if (scriptRunning) {
+                logToConsole('Script stopped.');
+                fetch('/stop-script') // Request to stop the script on the server (if supported)
+                    .catch((error) => logToConsole(`Error stopping script: ${error.message}`));
+            } else {
+                logToConsole('No script is running.');
+            }
+
+            document.getElementById('startBtn').disabled = false;
+            document.getElementById('stopBtn').disabled = true;
+            stopTimer();
+        }
+
+        // Function to log output to the console
+        function logToConsole(message) {
+            const consoleDiv = document.getElementById('console');
+            consoleDiv.textContent += message + '\n';
+            consoleDiv.scrollTop = consoleDiv.scrollHeight;
+        }
+
+        // Function to start the timer
+        function startTimer() {
+            isRunning = true;
+            startTime = Date.now();
+            timerInterval = setInterval(() => {
+                runningTime = Math.floor((Date.now() - startTime) / 1000);
+                updateTimerDisplay();
+            }, 1000);
+        }
+
+        // Function to stop the timer
+        function stopTimer() {
+            isRunning = false;
+            clearInterval(timerInterval);
+        }
+
+        // Function to update the timer display
+        function updateTimerDisplay() {
+            const minutes = Math.floor(runningTime / 60);
+            const seconds = runningTime % 60;
+            document.getElementById('timer').textContent = `Time Running: ${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+        }
+    </script>
+</body>
+</html>
