@@ -2,10 +2,12 @@
   "name": "haxball-bot",
   "version": "1.0.0",
   "description": "HaxBall Headless Bot",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
+    "express": "^4.21.2",
     "form-data": "^4.0.0",
     "fs": "0.0.1-security",
     "haxball.js": "^2.2.0",
