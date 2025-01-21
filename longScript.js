@@ -12,7 +12,8 @@ import { clearInterval } from "timers";
 // You don't need to import 'json' from 'stream/consumers' as it's not used directly
 // If it's used elsewhere, make sure you use a proper import statement
 import { json } from "stream/consumers";
-import { LocalStorage } from "node-localstorage"; // already imported above, no need to repeat
+import { LocalStorage } from "node-localstorage";
+const localStorage = new LocalStorage("./scratch");
 async function longScript() {
   const discord_errors_webhook =
     "https://discord.com/api/webhooks/1330932544060784640/X49W9eEZ158jqk8_Gpxq6Yv1UApKTAD9EK3G3V8BuYQ7enldzAXE0AfPrTE_D324H-_w";
@@ -30,7 +31,7 @@ async function longScript() {
       public: true, // roomPublic from config
       playerName: "Avraa", // botName from config
       geo: { code: "ES", lat: 40.463667, lon: -3.74922 }, // geo from config
-      token: "thr1.AAAAAGeObpvz4zbHryGIJw.1ya7EpluQT4", // token from config
+      token: "thr1.AAAAAGeQDk1EOnPQ55qJOw.d-0e_XlyiLk", // token from config
     });
 
     const scoreLimitClassic = 3;
